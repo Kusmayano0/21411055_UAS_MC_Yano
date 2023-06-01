@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063199207334",
+    "project_id": "uas-mc-19544",
+    "storage_bucket": "uas-mc-19544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063199207334:android:37763425d9ff76c8206967",
+        "android_client_info": {
+          "package_name": "com.example.a21411055_uas_mc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoogL1bs25x8WG0FCv_Xh78I0on2S0C0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
